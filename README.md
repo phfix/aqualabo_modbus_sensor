@@ -1,5 +1,5 @@
 
-#  Conductivity form aqualabo sensor
+#  Read conductivity from Aqualabo sensor
 ## Install python lib
  
 ```
